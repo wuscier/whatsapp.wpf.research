@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatsapp.wpf", "whatsapp.wpf\whatsapp.wpf.csproj", "{F3011D0D-7C2B-4181-B075-12542ECFA47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatsapp.wpf.2", "whatsapp.wpf.2\whatsapp.wpf.2.csproj", "{55A54BD5-6BB6-47A4-A3BE-54623CE8C09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatsapp.winform.layout", "whatsapp.winform.layout\whatsapp.winform.layout.csproj", "{1B977DBC-9611-4863-B6D1-0D53A8419B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3011D0D-7C2B-4181-B075-12542ECFA47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3011D0D-7C2B-4181-B075-12542ECFA47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3011D0D-7C2B-4181-B075-12542ECFA47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3011D0D-7C2B-4181-B075-12542ECFA47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A54BD5-6BB6-47A4-A3BE-54623CE8C09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A54BD5-6BB6-47A4-A3BE-54623CE8C09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A54BD5-6BB6-47A4-A3BE-54623CE8C09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A54BD5-6BB6-47A4-A3BE-54623CE8C09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B977DBC-9611-4863-B6D1-0D53A8419B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B977DBC-9611-4863-B6D1-0D53A8419B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B977DBC-9611-4863-B6D1-0D53A8419B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B977DBC-9611-4863-B6D1-0D53A8419B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DFD431-E1FB-4927-9921-4470FF81FF82}
+	EndGlobalSection
+EndGlobal
